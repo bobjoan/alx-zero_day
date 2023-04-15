@@ -1,9 +1,2 @@
-<<<<<<< HEAD
-
+#!/bin/bash
 echo "ALX"
-echo "ALX"
-Up_to_date readme README.md
-=======
-touch
-
->>>>>>> update_script
